@@ -13,5 +13,5 @@ Eu sou Rafael, programador Fornt End, atualmente estou aprendendo e criando proj
 <br>
 <H3>connect with me: </H3>
 <a href="https://www.facebook.com/rmsmrafael?locale=pt_BR"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="meu-facebook"> </a>
-<a href="inkedin.com/in/rafael-monteiro-0b2b711b6/?otpToken=MWEwMTFhZTkxMTJmY2ZjMWIwMjQwNGVkNDIxYmUzYj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu linkedin"> </a>
+<a href="https://www.linkedin.com/in/rafael-monteiro-0b2b711b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu linkedin"> </a>
 <a href="https://www.instagram.com/rafael1539"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="meu-instagram"> </a>
